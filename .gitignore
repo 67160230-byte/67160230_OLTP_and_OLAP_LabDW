@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+Student_Lab.docx
+Student_Lab_text.txt
